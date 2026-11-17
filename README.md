@@ -42,4 +42,4 @@ O pino D9 alimenta a escada R1 → R2 → R3, e cada nó tem um capacitor para o
 
 ## Autores
 
-Luis Antonio Torres Tigrera, Clara Carolina da Rocha Cavalcante e Matheus da Silva da Mota.
+Matheus da Silva da Mota.
