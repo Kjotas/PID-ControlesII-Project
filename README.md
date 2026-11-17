@@ -33,7 +33,7 @@ O pino D9 alimenta a escada R1 → R2 → R3, e cada nó tem um capacitor para o
 | [`esquematico/`](https://github.com/Kjotas/PID-ControlesII-Project/tree/main/esquematico) | Esquemático e montagem na protoboard |
 | [`graficos/PID_Graf.ipynb`](https://github.com/Kjotas/PID-ControlesII-Project/blob/main/graficos/PID_Graf.ipynb) | Notebook do Google Colab que gera os gráficos |
 | [`graficos/`](https://github.com/Kjotas/PID-ControlesII-Project/tree/main/graficos) | Resposta ao degrau e curva com o Arduino |
-| [`relatorio/Relatorio_PID_Controle_II.pdf`](https://github.com/Kjotas/PID-ControlesII-Project/blob/main/relatorio/Relatorio_PID_Controle_II.pdf) | Relatório |
+| [`relatorio/Relatorio_PID_Controles_II.pdf`](https://github.com/Kjotas/PID-ControlesII-Project/blob/main/relatorio/Relatorio_PID_Controles_II.pdf) | Relatório |
 
 ## Como reproduzir
 
